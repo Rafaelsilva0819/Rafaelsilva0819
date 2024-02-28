@@ -1,19 +1,8 @@
 ### Hello, I'm Rafael Prado 👋
 
-<!--
-**Rafaelsilva0819/Rafaelsilva0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Fanuc South America.
-- 🌱 I’m currently learning .
+- 🌱 I am currently studying systems analysis and development .
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![Linkidin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](httpl)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](httpl)
@@ -22,7 +11,9 @@ Here are some ideas to get you started:
 
 ![Rafaelsilva0819 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelsilva0819&show_icons=true&theme=onedracula)
 
-## Tecnologic
+## 🔥Skills
+
+## Programming languages
 <div style="display: inline_block"><br/>
   <img align="center" alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   
@@ -30,7 +21,7 @@ Here are some ideas to get you started:
   
 </div>
 
-## Sofwares
+## Tools & Frameworks
 <div style="display: inline_block"><br/> 
   <img align="center" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   
@@ -38,3 +29,5 @@ Here are some ideas to get you started:
   
   <img align="center" alt="" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </div>
+
+## Who am I
