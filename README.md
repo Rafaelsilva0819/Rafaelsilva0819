@@ -8,7 +8,7 @@
 [![Linkidin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-prado-rodrigues-da-silva-422b8a173/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.prado.7737/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafael.prado.7737)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ATuJsjyNXhsDmT0pVZNHlHLq5lLivzJjW6QDQOE2vLnZFQL3igS8_rO_k6O6qj4y3PJpkpFmIhW5ng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S2064253652%3A1709166991737170&theme=mn)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rafael.silva0819@gmail.com)
 
 ![Rafaelsilva0819 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelsilva0819&show_icons=true&theme=merko)
 
