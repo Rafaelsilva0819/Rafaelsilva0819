@@ -1,8 +1,9 @@
-### Hello, I'm Rafael Prado 👋
+<h1 align="center"> Hi! Welcome!</h1>
 
-- 🔭 I’m currently working on FANUC South America.
-- 🌱 I am currently studying systems analysis and development .
-- 👯 I’m looking to collaborate on ...
+![image](https://github.com/Rafaelsilva0819/Rafaelsilva0819/assets/161631791/6ff76b5b-6a53-4971-ae28-218f8956b01a)
+
+-  I’m currently working on FANUC South America.
+-  I am studying systems analysis and development .
 
 [![Linkidin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-prado-rodrigues-da-silva-422b8a173/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.prado.7737/)
