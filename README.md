@@ -1,6 +1,6 @@
 ### Hello, I'm Rafael Prado 👋
 
-- 🔭 I’m currently working on FANUC America Corporation.
+- 🔭 I’m currently working on FANUC South America.
 - 🌱 I am currently studying systems analysis and development .
 - 👯 I’m looking to collaborate on ...
 
