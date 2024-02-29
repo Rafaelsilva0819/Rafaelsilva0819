@@ -38,4 +38,4 @@ Experience in issuing reports and statistics for various organizations to analyz
 Knowledge of intermediate office suite, basic knowledge of VBA, MySql, SqlServer, MongoDB
 Knowledge and experience as an administrative assistant.
 
-I currently work as an intern at FANUC América Corporation in the Information Technology team. I have great ability to work with people, create and improve interactions between sectors and areas. I'm quite proactive and I'm fascinated by new challenges.
+I currently work as an intern at FANUC South America as an infrastructure analyst team. I have great ability to work with people, create and improve interactions between sectors and areas. I'm quite proactive and I'm fascinated by new challenges.
