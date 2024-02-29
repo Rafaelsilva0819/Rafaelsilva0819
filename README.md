@@ -16,9 +16,17 @@
 
 ## Programming languages
 <div style="display: inline_block"><br/>
-  <img align="center" alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="" src="" />
   
   <img align="center" alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <img align="center" alt="" src="" />
+  
+  <img align="center" alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <img align="center" alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   
 </div>
 
